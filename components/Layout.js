@@ -60,6 +60,7 @@ export default class BaseLayout extends Component {
           </div>
         </nav>
             {this.props.children}
+
         <footer>
           <span className="footer-title">Majestic Thai </span><span>100 Main Street, Spartanburg, SC, 29302 | (864) 898-9999</span>
         </footer>
